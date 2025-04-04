@@ -1,3 +1,4 @@
 this is my first project 
 take input from user
 add the value !!
+checking the diff !!
